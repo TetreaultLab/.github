@@ -7,6 +7,7 @@ Some of the technologies we use are:
 * RNA-sequencing, WGS and WES
 * Single-cell RNA sequencing
 * Long read sequencing
+* Whole Genome Bisulfite Sequencing
 * CRISPR/Cas9
 
 <!--
